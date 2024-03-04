@@ -1,0 +1,1 @@
+window.alert("Este site é apenas um protótipo e poderá futuramente receber novas atualizações!")

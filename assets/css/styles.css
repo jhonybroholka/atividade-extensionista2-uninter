@@ -1,0 +1,13 @@
+.icone{
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    height: 3rem;
+    width: 3rem;
+}
+span{
+    color: white;
+}
+i{
+    color: rgb(50, 205, 50);
+}
